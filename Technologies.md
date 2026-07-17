@@ -1,1 +1,12 @@
-
+# Tools and Platforms used:
+- AWS VPC
+- AWS EC2
+- Palo Alto VM Series
+- PAN OS
+- Cisco Catalyst 8000v
+- Ubuntu Linux
+- Terraform
+- Wireshark
+- tcpdump
+- curl
+- iperf3
